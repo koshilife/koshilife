@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm koshilife.</h2>
 
 
-💎 &nbsp;**Public Libralies** 
+💎 &nbsp;**Public libraries** 
 
 - [RubyGems](https://rubygems.org/profiles/koshilife)
 
