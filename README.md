@@ -18,7 +18,6 @@
 
 🔗 &nbsp;**Connect with me** 🇯🇵 (Japanese)
 
-- [Blog](https://www.koshi.life)
 - [Twitter](https://twitter.com/koshi_life)
 - [Zenn](https://zenn.dev/koshilife)
 - [Qiita](https://qiita.com/koshilife)
